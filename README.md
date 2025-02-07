@@ -2,4 +2,4 @@
 
 You can see the design here:
 
-[https://www.figma.com/design/oTMPmk5L5vqgfBzx9TtPcp/Assignment-Class-23?node-id=0-1&t=FJpVIMJq2T6teSVL-1](https://www.figma.com/design/oTMPmk5L5vqgfBzx9TtPcp/Assignment-Class-23?node-id=0-1&t=FJpVIMJq2T6teSVL-1)
+[https://www.figma.com/design/7O6TPyG9VyCRGBguRO4DvH/Assignment-Class-25?m=auto&t=jHGlrIoVdki6T94u-1](https://www.figma.com/design/7O6TPyG9VyCRGBguRO4DvH/Assignment-Class-25?m=auto&t=jHGlrIoVdki6T94u-1)
